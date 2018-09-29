@@ -1,0 +1,136 @@
+[25-Aug-2018 06:14:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php on line 17
+[26-Aug-2018 06:26:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php on line 17
+[27-Aug-2018 06:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php on line 17
+[28-Aug-2018 06:58:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php on line 17
+[29-Aug-2018 07:14:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php on line 17
+[30-Aug-2018 07:20:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php on line 17
+[31-Aug-2018 07:38:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php on line 17
+[01-Sep-2018 07:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php on line 17
+[02-Sep-2018 08:08:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewithahouse/public_html/wp-content/themes/theshopier/index.php on line 17
+[03-Sep-2018 18:15:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[04-Sep-2018 18:26:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[05-Sep-2018 18:32:46 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[06-Sep-2018 18:47:09 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[07-Sep-2018 18:56:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[08-Sep-2018 19:14:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[09-Sep-2018 19:34:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[10-Sep-2018 19:40:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[11-Sep-2018 19:55:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[12-Sep-2018 20:04:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[13-Sep-2018 10:50:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[13-Sep-2018 20:18:51 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[14-Sep-2018 20:35:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[15-Sep-2018 17:34:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[16-Sep-2018 17:53:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[17-Sep-2018 18:00:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[18-Sep-2018 18:11:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[19-Sep-2018 18:26:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[20-Sep-2018 18:29:27 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[21-Sep-2018 18:53:38 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[22-Sep-2018 18:56:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[23-Sep-2018 18:59:41 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[24-Sep-2018 19:08:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[25-Sep-2018 19:19:13 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
+[26-Sep-2018 19:31:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/amousewi/public_html/wp-content/themes/theshopier/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/amousewi/public_html/wp-content/themes/theshopier/index.php on line 17
